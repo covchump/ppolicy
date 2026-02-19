@@ -1,2 +1,0 @@
-# ppolicy
-Privacy policy
